@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChiusanoBjarnason/ChiusanoBjarnason.iml" filepath="$PROJECT_DIR$/ChiusanoBjarnason/ChiusanoBjarnason.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OderskyProgFun/OderskyProgFun.iml" filepath="$PROJECT_DIR$/OderskyProgFun/OderskyProgFun.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScalaLanguage.iml" filepath="$PROJECT_DIR$/ScalaLanguage.iml" />
     </modules>
   </component>
